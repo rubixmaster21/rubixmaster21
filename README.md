@@ -1,4 +1,4 @@
-math olympiad enthusiast, organic chemistry enjoyer, in a timezone unsuitable for cf contests
+rip my project euler account
 
 <!---
 rubixmaster21/rubixmaster21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
